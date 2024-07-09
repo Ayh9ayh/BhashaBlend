@@ -10,10 +10,6 @@ BhashaBlend is a user-friendly software designed for dubbing videos from English
 - **Text-to-Speech Conversion**: Generates natural-sounding speech from translated text using text-to-speech (TTS) technology.
 - **Audio Processing and Synchronization**: Ensures efficient audio processing and precise synchronization with video frames using the Moviepy and pydub libraries.
 
-## Workflow Diagram
-
-![Workflow Diagram](Screenshot 2024-07-09 142831.png)
-
 ## Algorithm Used
 
 1. **Speech Recognition (Whisper ASR)**: Employs advanced algorithms for accurate transcription of spoken dialogue.
