@@ -12,7 +12,7 @@ BhashaBlend is a user-friendly software designed for dubbing videos from English
 
 ## Workflow Diagram
 
-![Workflow Diagram](workflow_diagram.png)
+![Workflow Diagram](Screenshot 2024-07-09 142831.png)
 
 ## Algorithm Used
 
